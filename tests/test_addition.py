@@ -4,7 +4,7 @@ import pytest
 
 def test_add():
     result = add(3, 4)
-    assert result == 6
+    assert result == 7
 
 
 def test_add_string():
